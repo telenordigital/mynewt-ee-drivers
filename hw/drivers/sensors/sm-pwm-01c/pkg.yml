@@ -1,0 +1,16 @@
+pkg.name: hw/drivers/sensors/sm-pwm-01c
+pkg.description: Driver for the SM-PWM-01C
+pkg.author: "Exploratory Engineering <ee@telenordigital.com>"
+pkg.homepage: "https://docs.exploratory.engineering/"
+pkg.keywords:
+    - exploratory engineering
+    - sm-pwm-01c
+    - sensor
+    - dust
+
+pkg.deps:
+    - "@apache-mynewt-core/kernel/os"
+    - "@apache-mynewt-core/hw/hal"
+
+pkg.deps.SM_PWM_01C_CLI:
+    - "@apache-mynewt-core/util/parse"

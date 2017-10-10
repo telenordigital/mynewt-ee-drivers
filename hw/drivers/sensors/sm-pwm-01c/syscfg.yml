@@ -1,0 +1,16 @@
+syscfg.defs:
+    SM_PWM_01C_CLI:
+        description: 'Enable shell support for the SM-PWM-01C'
+        value: 0
+    SM_PWM_01C_LOG:
+        description: 'Enable SM-PWM-01C logging'
+        value: 0
+    SM_PWM_01C_STATS:
+        description: 'Enable SM-PWM-01C statistics'
+        value: 0
+    SM_PWM_01C_SHELL_ITF_TYPE:
+        description: 'SM-PWM-01C interface type'
+        value: 1
+    SM_PWM_01C_SHELL_ITF_NUM:
+        description: 'SM-PWM-01C interface number'
+        value: 0

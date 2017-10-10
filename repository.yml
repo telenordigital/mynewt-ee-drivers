@@ -1,0 +1,4 @@
+repo.name: mynewt-ee-drivers
+repo.versions:
+    "0.0.0": "master"
+    "0-dev": "0.0.0"       # master
