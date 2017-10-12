@@ -1,0 +1,16 @@
+syscfg.defs:
+    IAQ_CORE_CLI:
+        description: 'Enable shell support for the iAQ-Core'
+        value: 0
+    IAQ_CORE_LOG:
+        description: 'Enable iAQ-Core logging'
+        value: 0
+    IAQ_CORE_STATS:
+        description: 'Enable iAQ-Core statistics'
+        value: 0
+    IAQ_CORE_SHELL_ITF_TYPE:
+        description: 'iAQ-Core interface type'
+        value: 1
+    IAQ_CORE_SHELL_ITF_NUM:
+        description: 'iAQ-Core interface number'
+        value: 0

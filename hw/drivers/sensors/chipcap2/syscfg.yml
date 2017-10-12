@@ -1,0 +1,16 @@
+syscfg.defs:
+    CHIPCAP_2_CLI:
+        description: 'Enable shell support for the Chipcap2'
+        value: 0
+    CHIPCAP_2_LOG:
+        description: 'Enable Chipcap2 logging'
+        value: 0
+    CHIPCAP_2_STATS:
+        description: 'Enable Chipcap2 statistics'
+        value: 0
+    CHIPCAP_2_SHELL_ITF_TYPE:
+        description: 'Chipcap2 interface type'
+        value: 1
+    CHIPCAP_2_SHELL_ITF_NUM:
+        description: 'Chipcap2 interface number'
+        value: 0

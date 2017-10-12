@@ -1,0 +1,16 @@
+syscfg.defs:
+    ORIGIN_CLI:
+        description: 'Enable shell support for the Origin GPS'
+        value: 0
+    ORIGIN_LOG:
+        description: 'Enable Origin GPS logging'
+        value: 0
+    ORIGIN_STATS:
+        description: 'Enable Origin GPS statistics'
+        value: 0
+    ORIGIN_SHELL_ITF_TYPE:
+        description: 'Origin GPS interface type'
+        value: 1
+    ORIGIN_SHELL_ITF_NUM:
+        description: 'Origin GPS interface number'
+        value: 0
